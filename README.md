@@ -87,7 +87,7 @@ I have worked on:
 ## 🎯 What I’m Looking For
 
 - iOS Developer role (Mid-Level)
-- Product-based company
+- Product / Client based company
 - Remote / Hybrid opportunities
 
 ---
